@@ -7,3 +7,4 @@ Awesome list for asm2vec
 
 - [Lancern/asm2vec](https://github.com/Lancern/asm2vec) - Asm2vec by Lancern
 - [bjchan9an/Asm2Vec_demo](https://github.com/bjchan9an/Asm2Vec_demo) - Asm2Vec demo by bjchan9an
+- [McGill-DMaS/Kam1n0-Community](https://github.com/McGill-DMaS/Kam1n0-Community) - Kam1n0
